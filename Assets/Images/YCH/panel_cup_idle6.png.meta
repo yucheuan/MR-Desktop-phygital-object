@@ -1,0 +1,6318 @@
+fileFormatVersion: 2
+guid: bf456b66b9659fe4cadf6c5cd41f0181
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: panel_cup_idle6_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1969
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe34f59e9fd364347af3a0b19e269532
+      internalID: -733343528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1969
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46d9e2c509745942a9d416051afecef
+      internalID: -295455388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1969
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19134a3b4c20c040bec1db30105f7ca
+      internalID: 639008789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1969
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9570b8d01eb93de4297fb7b4b19d2ae7
+      internalID: 346890325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_4
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1969
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7546025a9e96ca47b62d11900921f78
+      internalID: -1307278320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1969
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245e41ed0a6587d4cb8f4b7b03e7aa16
+      internalID: 942601094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_6
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1969
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38858feb984e3b40ad95dea50ea68c1
+      internalID: -634103177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1969
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eccc2a7eb238d647880334021b3726c
+      internalID: 793741852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_8
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1969
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c7f313eaef35741814110eb181c8ef
+      internalID: 289612636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_9
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1969
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0148159ea8f960648ba0e71f3e082128
+      internalID: -1399625279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_10
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1969
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ca0eed9adf65543bf7255416997f45
+      internalID: -389024191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_11
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1969
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b0e92fefabee34190c24f2bf584f6b
+      internalID: -2033694611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1884
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13baa2c7e24d3b48bf8f1a4df1702d9
+      internalID: 1806300701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1884
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b00865819f83da4b8793fb2df09596c
+      internalID: -448601073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1884
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ca130c58402b540b64a07f8b9b7bd5
+      internalID: -1945119752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1884
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c45f8e2a88bb04fbcc34f12bc9df7f
+      internalID: -180020240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_16
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1884
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f965b776182f44930118305da1b04
+      internalID: -79553529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_17
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1884
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4845c192d5f3b7b4e8573e6162faa079
+      internalID: -685238343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_18
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1884
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faffe214532b5849b39c8782c511a80
+      internalID: 1091086455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_19
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1884
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0aaec5c8c64bd49b48d2e6dd558f86
+      internalID: -1312535978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_20
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1884
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e7fc3145429414a93c05de34ad4527
+      internalID: 1934320582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_21
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1884
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1f5dcb02b6e66478c08b50efae4845
+      internalID: 2075864775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_22
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1884
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe633324f42cb794db80172bf0dd385d
+      internalID: 517032642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_23
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1884
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bef1e32a2021ce4aa033d15a93ce628
+      internalID: -2027505139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1799
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b208bc015b30b214a8b86e38437dec1b
+      internalID: 152626124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_25
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1799
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e09fca4a9231048a7cf2a8ecf685d4
+      internalID: -191160212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1799
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3909baaae81a7874b8ccc9dd40e344a3
+      internalID: 554738258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1799
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8016330728772034faf9ac401ae33845
+      internalID: -241462072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_28
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1799
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7a0f57eaad12b469028ea65fcfe74d
+      internalID: 1774251620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_29
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1799
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69a4bb350afcba45b3957bc6513a17c
+      internalID: 1360969740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_30
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1799
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef4badecd0950f458f62d2e3258bf25
+      internalID: -1140638816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_31
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1799
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf1d1a0bed18a94e85920baebd62c70
+      internalID: -1449651734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_32
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1799
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b9ebefd208df14483be2c1e196ec7c
+      internalID: -890477255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_33
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1799
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b07394cc005e64e9774155df1cb4cf
+      internalID: 602422954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_34
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1799
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04863125ae2dbc94083728e96edbad82
+      internalID: 1515043420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_35
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1799
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992a23b8996e0b94c83074606de9a9d7
+      internalID: 785988598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1713
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd19d48964d4af74e9724524d261fec3
+      internalID: 2012662258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_37
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1713
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a506b309c47734849be44a01c11f20f8
+      internalID: -1435730833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_38
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1713
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d307ce0e92baa144b795c8947768600
+      internalID: 1133919705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1713
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0243750db9ffe144db16e740bc5f9835
+      internalID: -355373807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_40
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1713
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d8f2ed987b6994088019358a15858a
+      internalID: 373266611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_41
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1713
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2133c09bdf353479147181d5b2a293
+      internalID: -629819920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_42
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1713
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3541b74ad027c044ea7139197eeb43ec
+      internalID: 148927691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_43
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1713
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a8390f7f54865459efe4731dbbd335
+      internalID: 1825066667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_44
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1713
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650c6854238614c478a514b8468924f1
+      internalID: 82198363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_45
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1713
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6b2f3718810f046bfd3ce31671ee33
+      internalID: -210468948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_46
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1713
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291d3d96e541b594481f18fca2e233fa
+      internalID: -1676605046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_47
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1713
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0896c55d5413048bc2f60f9e28e8d4
+      internalID: -866878293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1628
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d74265bd8e230444b9d7bc1f94189e4
+      internalID: -443812341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_49
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1628
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b6b6a53e152b84c91d60f89aa8ec6f
+      internalID: 2095016932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_50
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1628
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41e73edc71550b4297bb2edb9fa644a
+      internalID: -1929549877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_51
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1628
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e1765cf34421340a5a68eda072764a
+      internalID: -980110990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_52
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1628
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 980f5d863ae604e4ab05b93c84782890
+      internalID: 584217436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_53
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1628
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5edb4e3eb8a941439b0051c3431d77a
+      internalID: -2079221216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_54
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1628
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70f0056b820b6a4990a0bc26f4d1ae6
+      internalID: -1015636500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_55
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1628
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0af6f4b1480d1542aa8d094acb5e56b
+      internalID: 1207941160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_56
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1628
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab05047f109265d45af7c966a637ff35
+      internalID: 863022112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_57
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1628
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e16b4c0813e6834ea17f381328c1104
+      internalID: 715782202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_58
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1628
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1e5f165b766e04293b13eddf39b6da
+      internalID: 831962949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_59
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1628
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27708cbee05116a4db288f11e70a058d
+      internalID: 38050891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1543
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b049874cacdbd3469688a322af993f3
+      internalID: 1569602149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_61
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1543
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcc3d2ec356ff14e9464c9ca5300112
+      internalID: -794447110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_62
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1543
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c71f310b8673742954a8737c720aed
+      internalID: 1929056017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_63
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1543
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144fd5a6f9164614a981169a664d1ff3
+      internalID: -379848554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_64
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1543
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c568dab12c573e44837aba771b432e6
+      internalID: 280395663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_65
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1543
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aed9316d07c6f141b41d228ea652665
+      internalID: 1476228790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_66
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1543
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2303889d2a72d49a3a5b0d604e1e0d
+      internalID: -657623975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_67
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1543
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ad95456d5cdd24fbcae1fd45c602df
+      internalID: -878769170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_68
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1543
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77603eb0db9a02c4287d99d8a1d8784d
+      internalID: 2015381270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_69
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1543
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da58664c213a614f90425c4550bcdca
+      internalID: 57316542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_70
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1543
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d319171caae4025418be24b7d482e51f
+      internalID: -1512652845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_71
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1543
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3aa77fd0a269841b40a506fbf36fc6
+      internalID: -754511578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1457
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8a0500446a8b447ab203be840b0e9c
+      internalID: 1493331763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_73
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1457
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e015ea8492bc74ab28b29fdfb4bd6c
+      internalID: -725122974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_74
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1457
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a48dc932b5b1904983d726b2bc2acbc
+      internalID: 146260320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_75
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1457
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5099013e51ad4d84fba9901badaf2047
+      internalID: -628166555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_76
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1457
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef130d267783b8499c8cd0c2c526de7
+      internalID: 1478084015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_77
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1457
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae88db6505d2ba4989dd3f518bfc3d0
+      internalID: 1116886959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_78
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1457
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc2695573c7c0a42bdf2fefc5c3028d
+      internalID: 590329565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_79
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1457
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce71da51f8ec0f409c095d897a8c2ab
+      internalID: -1095723755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_80
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1457
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bb30ad70721584d94726ed755edc84
+      internalID: -707887000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_81
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1457
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0190aaea905b9a44080f487a9f919a4e
+      internalID: -1947572680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_82
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1457
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377b71a413ddd4a4eb829d683fdecdb0
+      internalID: 820809891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_83
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1457
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a6788c6bf9a045a5b58bb5e95b693
+      internalID: -144617659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1372
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf987eb31fca441a46c129e3ec593d
+      internalID: 68606096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_85
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1372
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67175817033b1df4c9f0b795b54e7edd
+      internalID: -1938358599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_86
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1372
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aede9580009f14949870bc35d5c0290a
+      internalID: 63487882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_87
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1372
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb818a29801a5164085cd58563b17bcf
+      internalID: 1610521960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_88
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1372
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ffbfe131d2d964b849cdd00e3b3c9c
+      internalID: -1400495910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_89
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1372
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7949addedcfb4c247ac394695d2a6664
+      internalID: 289113120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_90
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1372
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330fe406fe14e5a4cbc04b93b7e383c2
+      internalID: 1740433327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_91
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1372
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c81f1ab5f8b1114d92a4cf1e7db845f
+      internalID: 114891800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_92
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1372
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390c5df7a9a8e7f4d979f0034080a414
+      internalID: -956894592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_93
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1372
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecaa1023303090e45af1301e1504d71c
+      internalID: 1787754645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_94
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1372
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5598577e3de81942a5ea04d074f48a3
+      internalID: 1901785986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_95
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1372
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dc2b529c97cf143ab86eec3e801041
+      internalID: -1987073886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1287
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767641055630e0c41a7e906d9a3df2d2
+      internalID: 282725266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_97
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1287
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd1495316cb2824cb1c22369364da08
+      internalID: 2143681763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_98
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1287
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de75ea5f256b414daa44fe08ffacdb4
+      internalID: -1355819395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_99
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1287
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0537b8f3b1e6cb4e87e607415ba943d
+      internalID: -1392627502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_100
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1287
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3491e8d201b96af498ffa0622220a903
+      internalID: 1290631352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_101
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1287
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf2eea692ec9444fb2e504d244b357e
+      internalID: -1692874204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_102
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1287
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7d853886c295f4fbad835b495bd8f4
+      internalID: 1702569174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_103
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1286
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784743485a2faea489d51e43ef85b8df
+      internalID: 1236381848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_104
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1287
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07151201d738c954cb1da6b1474d194e
+      internalID: 941235877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_105
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1286
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d43e48e4fd38643aebee3ef8ef1d38
+      internalID: -130054429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_106
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1287
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d281279cfa5ab544a1d2a1b5ac02858
+      internalID: 2075353123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_107
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1287
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f2b47225f0d02418533aff6241887a
+      internalID: -608446494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_108
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1201
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed5d29f1825ef648bb9379a6826582c
+      internalID: 827397496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_109
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1201
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a7307fd134bd24680dce79db15b744
+      internalID: -839262167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_110
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1201
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f5b70efa1b58b4581c57d99bec5547
+      internalID: 79183260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_111
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1201
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc8cfe5b18202847a7d3160438b065b
+      internalID: -1872426973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_112
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1201
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80addea380415334e871d4f9a2bbc1e1
+      internalID: 753765564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_113
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1201
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf5abcf052a452488633c0e9165c59f
+      internalID: -685447965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_114
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1201
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfd08065f7293446869039f8e4c752e
+      internalID: -1747410506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_115
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1201
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94ba5465c782fd43939ba4ff481e471
+      internalID: 1065125980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_116
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1201
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb82ec8067dda443b3d201a4376c074
+      internalID: -1038541561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_117
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1201
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdc197c15f30e542b3edc088962d10d
+      internalID: -941334121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_118
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1201
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88431e98aeb57fe4ea7c1bc6bc7d01ae
+      internalID: 494006767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_119
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1201
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf9df94a089ef54c83759be17b96b9b
+      internalID: -811953083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1116
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b152937573e9440a47984c1368e6a6
+      internalID: 1268715542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_121
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1116
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16535d90466d6d40b06e8bebc316372
+      internalID: 1348576794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_122
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1116
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7b0f875f5af64428eb63c4e9604a89
+      internalID: -608170279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_123
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1116
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db87da322ebb50d4490fd172dea453ac
+      internalID: 47291074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_124
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1116
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788beb8ae1a8ce24daed22fd4d658361
+      internalID: -19771288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_125
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1116
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13dfd718caf562245a0f5869fc6cf756
+      internalID: -643238889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_126
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1116
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf4dc593480d0046bd8dcfa4a52944e
+      internalID: -1848783083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_127
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1116
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962ec463bd088914785920413505f22b
+      internalID: -1580490834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_128
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1116
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9c729a137c5f84190693b913512d9e
+      internalID: 237192673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_129
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1116
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c34c8de28aa1dc429af52c561af2373
+      internalID: -1693603738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_130
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1116
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64003704695ec88488b295cef3980847
+      internalID: 280298703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_131
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1116
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418509a5b9a5c9f41b751032607eaefb
+      internalID: 310442940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_132
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1031
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21734090bd7c1f34485b8fdc054a612d
+      internalID: 2111537397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_133
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1031
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfcab878a712384081916aa1adc782e
+      internalID: 1967104039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_134
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1031
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77c93962bd19b44d87420d5023c2679
+      internalID: 46758421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_135
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1031
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636a7766f48df3140b84b1c0c7cceef9
+      internalID: 1575621205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_136
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1031
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1dee1946b2abc4c853682747e5387f
+      internalID: -2001894033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_137
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1031
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4852a25dd2c53a428abc59c7bf516f6
+      internalID: 1752129151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_138
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1031
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31dfe1629bc297408250cc81f0cbd11
+      internalID: -301968334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_139
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1031
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e365708f59f1a41a83dbd0d27f0d57
+      internalID: 1108169323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_140
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1031
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9592d2e22b659bc44bdf32b138432266
+      internalID: -1309132432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_141
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1031
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8212e76237a38964db8e8420756af684
+      internalID: -476890035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_142
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1031
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f5b4fc70a3ad74b961817056af5d91
+      internalID: -45907148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_143
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1031
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0337b331394f1b4bb0eaa8ddba21b51
+      internalID: -971631488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_144
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 945
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ec47ba283854b4998314542c733023
+      internalID: 1140297110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_145
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 945
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68043c2509bc50d42ab6ca0e5d106557
+      internalID: 2024124609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_146
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 945
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dc2fff893d31e4295278ce4472817b
+      internalID: 1063081092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_147
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 945
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfd69dd4d3047544bac0f65158b3f5a
+      internalID: -419157359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_148
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 945
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08534709dd155744b05d76ed0a10b45
+      internalID: 476589423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_149
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 945
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf65cc3d9c96d954ab53887d35144126
+      internalID: -925257561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_150
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 945
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08c4536746318045a0166bf81fb1ede
+      internalID: 610841292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_151
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 945
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e76720a15da58f43ab1142c40c35616
+      internalID: -2017266103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_152
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 945
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fa125d9115ede4dbe65e554b3d7dbc
+      internalID: 778710482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_153
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 945
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a3eb5d18e8d745a8ca3a11de2989f
+      internalID: 1219896512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_154
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 945
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ce5d735d8c3c6418c315875f5dd86d
+      internalID: -1966240919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_155
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 945
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd588e73ff1b2841a06d09ff56aaada
+      internalID: -582691664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_156
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 860
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69846aeaab51a543993e417112c80a9
+      internalID: 1972373624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_157
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 860
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b61693b3a54d9c45a63faca12ea448a
+      internalID: 1764850982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_158
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 860
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e8edeac6c7a1745b309decee6ef6ac
+      internalID: 295646264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_159
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 860
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55921b4583cfe04b93e288277c4c098
+      internalID: 1378829788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_160
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 860
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f77699c1709654381056d7790f78b8
+      internalID: -1226542723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_161
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 860
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6016f8337d154fd43b7495373ff1d0b7
+      internalID: 2115010445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_162
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 860
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cab5b215e179664b90bd31b4d7cca0f
+      internalID: 1750693222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_163
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 860
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308323dcf7b856741a4ef10a8c5de1d8
+      internalID: -248801587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_164
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 860
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8a662bb0627984c9eae8d58065458b
+      internalID: 862813433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_165
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 860
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124c047b1cbff7e429f1d1fec6cdae1c
+      internalID: -294738694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_166
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 860
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4661bdd46cf4c9d4db9988657bf461bf
+      internalID: 1630075420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_167
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 860
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07c97446f97c1f4fa10a9de12c5784f
+      internalID: 1345539784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_168
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 775
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d0af4cd901d6e4db8436eac022f766
+      internalID: -1044878129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_169
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 775
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5b2b85184c5f547b2a8ae7d3cd654c
+      internalID: 1892586607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_170
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 775
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3bfb4251923104d909b639934e81c8
+      internalID: 852893715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_171
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 775
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c46ec11f5f7e6a4db952399dd422295
+      internalID: -1278350979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_172
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 775
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d09ee8d9ecdafe4cbcf4032298a790e
+      internalID: -1222785651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_173
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 775
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a91d88f2c962e8449c6ef1719fb8a56
+      internalID: 1530189959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_174
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 775
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d63599f168c9c41b9d6f4ab279024d
+      internalID: 743914195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_175
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 775
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dc0e0fdb2705146a8b4a082460050f
+      internalID: -641523290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_176
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 775
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e26e850678b684dabf4277c1f3bd1f
+      internalID: 1218724566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_177
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 775
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cae6711f61fb5c479f41aa4b2b75bd5
+      internalID: -1624154215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_178
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 775
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a063c5bfafd96546a81ca0860d45926
+      internalID: -660125572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_179
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 775
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fc8d8ad669c1b46bf7280c0d614e58
+      internalID: 1279008502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_180
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 689
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b5916dcad79f0478a384a0a1ec2f7c
+      internalID: -17561206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_181
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 689
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a0f38358d82a34291263d6c7ddfb83
+      internalID: -1315628595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_182
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 689
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1068c50c3b9595d4da50bcb43ab21cda
+      internalID: 1973042476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_183
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 689
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767e1f14d00b10342847ac37ec2e38cd
+      internalID: -1298306750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_184
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 689
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaf4ded8b22c9f4b9b4455f960cd741
+      internalID: 391347881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_185
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 689
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19520524faf76bf4ea49e837143ba0d7
+      internalID: 1403668053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_186
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 689
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d21246c12e39774da60698f8d48394f
+      internalID: -1092980016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_187
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 689
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7155b1038cd5d9145993e08dd2d3dfa8
+      internalID: 445152199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_188
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 689
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232809f016796c4aab187971e0f82f5
+      internalID: 1357891905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_189
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 689
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac394ec0bf0734b82c959fc343e63b
+      internalID: 1969318504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_190
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 689
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1596ceaa7c4a56849a4e4d0d205ed997
+      internalID: 1436418429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_191
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 689
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30ed381ff26c0b4db50029c55a2ae95
+      internalID: 180407458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_192
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 604
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3441b751d0c75814fbbd452906262edc
+      internalID: -84777895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_193
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 604
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc11b08656b120142bb4071869a7eb4e
+      internalID: -512538371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_194
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 604
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f37c8f4d81420845998d9406f115e42
+      internalID: -652260337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_195
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 604
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4debc3cae092bea4c9d2a0fae1d16b9a
+      internalID: -381132712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_196
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 604
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1240f9a12817fc649902dce078d7c7c6
+      internalID: -896675531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_197
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 604
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00153f2e4b3c1304b93ee628547f4571
+      internalID: -640763530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_198
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 604
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0718e54ea82c1d44a21e16f043b6a5b
+      internalID: -508635220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_199
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 604
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69824873694afc444ba9f056ce8944ae
+      internalID: -1652944960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_200
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 604
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e42abf60eeacc4ea7e821e7251da9d
+      internalID: 135924504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_201
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 604
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644ee5650e3e7004494bcdc18362a982
+      internalID: -1124015582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_202
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 604
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e2602a537a06d48965d1a0f84942f6
+      internalID: 1782650053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_203
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 604
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc43354081149347ae606f4bdcf23ea
+      internalID: 1279017210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_204
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 519
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976cc98ae0456db43ba6f896cf7b5ada
+      internalID: 619908624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_205
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 519
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd00fd7195736494fa97739e111db415
+      internalID: 2081803964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_206
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 519
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e4b1871d934294b819607af17643d6
+      internalID: -2044137807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_207
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 519
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb91655d33f06a4daa12954d8b358bc
+      internalID: -1137291784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_208
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 519
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5831dc06cbc514d8f71896f9ce9427
+      internalID: 716613792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_209
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 519
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1564f6b5bd875449eebe0d5a307283
+      internalID: 470466644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_210
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 519
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc399c5ec159d6448e35256e1c8acf2
+      internalID: -1602778644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_211
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 519
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05784d194cb29142a83e7cc57d588bb
+      internalID: -1073418705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_212
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 519
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930862c51c9e5854d9dc35280371a66b
+      internalID: -355671419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_213
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 519
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5aa50b187d1ff418a50da873aa3dd7
+      internalID: -1578267799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_214
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 519
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51933aea266e9648ac61650b91da0ab
+      internalID: -920128587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_215
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 519
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a84267fc6bdd844a1095806a093d3e
+      internalID: -541351449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_216
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 433
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a925dab3079a8b743af024724c5b986a
+      internalID: 1831521665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_217
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 433
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c119979844cb743809171e5ae0a138
+      internalID: 1645441951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_218
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 433
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f0c1a1915c22647b239021ddddb7ea
+      internalID: -1907610817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_219
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 433
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3e642aa34db7c4ca35a685e7fbcddf
+      internalID: -1036362975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_220
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 433
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c047fed8e871da5428064bc5ef272c06
+      internalID: -915694666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_221
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 433
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e424a42121be974f8d4c390fe3db6df
+      internalID: 1333974975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_222
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 433
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8e9a1bf555d8a4e9251d5091418dc8
+      internalID: 1622099968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_223
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 433
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e658943a565324383b322760bc70f5
+      internalID: 221025267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_224
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 433
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac12ef5b8319f304eaee60eaa4743705
+      internalID: 530225318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_225
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 433
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54cdb510c42fa446b17af64fb677b0d
+      internalID: 1615230322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_226
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 433
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216750959cd821a4f917178f8f4c577c
+      internalID: -342894336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_227
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 433
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512bddf997b02a843843487170ffc1a7
+      internalID: 2134076232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_228
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 348
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daa38e1b5816074dbf45364556c5607
+      internalID: -952940100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_229
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 348
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1812311c4ecff140a201bca10b6ccc1
+      internalID: 1372549889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_230
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 348
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4c0bb9921fa2046b26ee1e1d04b40c
+      internalID: 2079913552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_231
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 348
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dbf9da6233443346b65369e2fad5e56
+      internalID: -1092775133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_232
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 348
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a36225d3f6dbd489abf0c136cfba64
+      internalID: 291519765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_233
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 348
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc499062e3852f946a1137c45c4ba57f
+      internalID: 1736892521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_234
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 348
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa919002e65d1a4eb6d5c40be3530be
+      internalID: 283870596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_235
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 348
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2109f4358e4784394a4325a4ee1564
+      internalID: 1037824773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_236
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 348
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4295a0dc6a11ef34b93880e056712270
+      internalID: 790509816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_237
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 348
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cca207e5037da347a35e32bf8a2f505
+      internalID: -520681365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_238
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 348
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a69e0c97c445a4a8e770ff51400ecc
+      internalID: -151846791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_239
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 348
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adeee570245cfb84a8b5efd7c8487dc7
+      internalID: 2079158366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_240
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 263
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b9abc285afc3946890146218345b58
+      internalID: 2014070201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_241
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 263
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9685c6404a1ba3b4da8b7b13d4fe6dcb
+      internalID: 561570333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_242
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 263
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af687c9f612885479a1647c672c90bc
+      internalID: 161056799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_243
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 263
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c189f219d73a34caced25e0fe622cb
+      internalID: 1982917862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_244
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 263
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c46b450fda93fa46b9176f3cd0aa8a9
+      internalID: -2086281192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_245
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 263
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fa171d205d4934788a5af7234f3c17
+      internalID: 1942971027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_246
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 263
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da7b8ce89bb0364285094551c7f58be
+      internalID: 2021109548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_247
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 263
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6108693ada6c94b907003573957876
+      internalID: 796566119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_248
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 263
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3210652d39e72042a5aba17ac1e4690
+      internalID: -26384793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_249
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 263
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86983dd69f01cbd4ba93239e353ce9aa
+      internalID: -315780211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_250
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 262
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28754aec767a6af43949f35d4a498572
+      internalID: 1620557030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_251
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 263
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5095fdf6f19f3409dc7f7f96b2826e
+      internalID: 1279421608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_252
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 177
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49d2372dbd89f0478d7d62f1aed2ccc
+      internalID: 542784012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_253
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 177
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c0b6b8488adee41bfe2cc00db39178
+      internalID: -1177769902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_254
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 177
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf56baa0ceb4b34f88b5df3b8b7ab18
+      internalID: 1432360833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_255
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 177
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faed9622c31aaa346bbd726a2d1b4717
+      internalID: 172895987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_256
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 177
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052e348bc7cf76b45a7d70240d6935df
+      internalID: -567828395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_257
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 177
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a565e5f283de7c1469c81dc9f9b4f54a
+      internalID: -1053208517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_258
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 177
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7dafed45505383428e6efc86ccaf647
+      internalID: 1378753216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_259
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 177
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86731103f8f21a3438261ae2a70e4922
+      internalID: 1204398658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_260
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 177
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dbf97719a668c4f81cf4bb9cd51019
+      internalID: 305111116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_261
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 177
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a5fb58dbcf68a41b27105462daca01
+      internalID: 973158002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_262
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 177
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa9a053172750d4cb7d8ce73301e6d4
+      internalID: -557642713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_263
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 177
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e6aec9e6cb5c54783b7168d79c941e
+      internalID: 1064482651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_264
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 92
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4627bcba93f4f5040a3be6d237679b39
+      internalID: -926805850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_265
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 92
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc35df4b74db8354f87912bc4be3a32e
+      internalID: -1136174428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_266
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 92
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f672679569482db45a73984e36b3e2fa
+      internalID: -1658266521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_267
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 92
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737610280c5019b469f7bcf35bfe0e11
+      internalID: 179388016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_268
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 92
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed79ba0703d95045bde6dc17c417f46
+      internalID: -795450097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_269
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 92
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf6eca34d30f474888e74ee6fec2aa2
+      internalID: -1105449697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_270
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 92
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01ed7ffe303fc140aa781c818fcef32
+      internalID: -1299627848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_271
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 92
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676a63241f41d1344a95e6b953b06b34
+      internalID: 718579470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_272
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 92
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a6d4672f7da1a4ab20edfe92da99d5
+      internalID: 1649638610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_273
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 92
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a538b68605f80a4fb620b305875a311
+      internalID: -1707184177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_274
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 92
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc67c6e274c4afb4d8d7d477efd0a9ae
+      internalID: -2124572965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_275
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 92
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000db136b403e1544999ec1dd5c7d710
+      internalID: 701169858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_276
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9402813895696004194f5393fc6039a9
+      internalID: 61795142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_277
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 7
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0930ec76d34e4c548ae3ad9ff9ac5085
+      internalID: 223655986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_278
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 7
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e069d7a5ae64fb41b565eb84061ca56
+      internalID: 1888273871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: panel_cup_idle6_279
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dada85ac423e044c8c5fecfe140c0cf
+      internalID: -543946743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d9ba6c5e12e6cbe438fca12dffc6620c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      panel_cup_idle6_222: 1622099968
+      panel_cup_idle6_47: -866878293
+      panel_cup_idle6_166: 1630075420
+      panel_cup_idle6_13: -448601073
+      panel_cup_idle6_35: 785988598
+      panel_cup_idle6_140: -1309132432
+      panel_cup_idle6_216: 1831521665
+      panel_cup_idle6_259: 1204398658
+      panel_cup_idle6_193: -512538371
+      panel_cup_idle6_1: -295455388
+      panel_cup_idle6_24: 152626124
+      panel_cup_idle6_188: 1357891905
+      panel_cup_idle6_10: -389024191
+      panel_cup_idle6_135: 1575621205
+      panel_cup_idle6_150: 610841292
+      panel_cup_idle6_246: 2021109548
+      panel_cup_idle6_100: 1290631352
+      panel_cup_idle6_269: -1105449697
+      panel_cup_idle6_125: -643238889
+      panel_cup_idle6_218: -1907610817
+      panel_cup_idle6_86: 63487882
+      panel_cup_idle6_18: 1091086455
+      panel_cup_idle6_20: 1934320582
+      panel_cup_idle6_243: 1982917862
+      panel_cup_idle6_67: -878769170
+      panel_cup_idle6_65: 1476228790
+      panel_cup_idle6_257: -1053208517
+      panel_cup_idle6_103: 1236381848
+      panel_cup_idle6_177: -1624154215
+      panel_cup_idle6_62: 1929056017
+      panel_cup_idle6_236: 790509816
+      panel_cup_idle6_181: -1315628595
+      panel_cup_idle6_110: 79183260
+      panel_cup_idle6_170: 852893715
+      panel_cup_idle6_205: 2081803964
+      panel_cup_idle6_145: 2024124609
+      panel_cup_idle6_12: 1806300701
+      panel_cup_idle6_180: -17561206
+      panel_cup_idle6_226: -342894336
+      panel_cup_idle6_238: -151846791
+      panel_cup_idle6_76: 1478084015
+      panel_cup_idle6_2: 639008789
+      panel_cup_idle6_162: 1750693222
+      panel_cup_idle6_72: 1493331763
+      panel_cup_idle6_115: 1065125980
+      panel_cup_idle6_211: -1073418705
+      panel_cup_idle6_132: 2111537397
+      panel_cup_idle6_265: -1136174428
+      panel_cup_idle6_250: 1620557030
+      panel_cup_idle6_153: 1219896512
+      panel_cup_idle6_209: 470466644
+      panel_cup_idle6_266: -1658266521
+      panel_cup_idle6_75: -628166555
+      panel_cup_idle6_85: -1938358599
+      panel_cup_idle6_264: -926805850
+      panel_cup_idle6_228: -952940100
+      panel_cup_idle6_198: -508635220
+      panel_cup_idle6_5: 942601094
+      panel_cup_idle6_256: -567828395
+      panel_cup_idle6_88: -1400495910
+      panel_cup_idle6_249: -315780211
+      panel_cup_idle6_119: -811953083
+      panel_cup_idle6_202: 1782650053
+      panel_cup_idle6_81: -1947572680
+      panel_cup_idle6_3: 346890325
+      panel_cup_idle6_41: -629819920
+      panel_cup_idle6_176: 1218724566
+      panel_cup_idle6_128: 237192673
+      panel_cup_idle6_83: -144617659
+      panel_cup_idle6_219: -1036362975
+      panel_cup_idle6_91: 114891800
+      panel_cup_idle6_227: 2134076232
+      panel_cup_idle6_182: 1973042476
+      panel_cup_idle6_0: -733343528
+      panel_cup_idle6_278: 1888273871
+      panel_cup_idle6_39: -355373807
+      panel_cup_idle6_231: -1092775133
+      panel_cup_idle6_187: 445152199
+      panel_cup_idle6_16: -79553529
+      panel_cup_idle6_71: -754511578
+      panel_cup_idle6_189: 1969318504
+      panel_cup_idle6_272: 1649638610
+      panel_cup_idle6_137: 1752129151
+      panel_cup_idle6_192: -84777895
+      panel_cup_idle6_244: -2086281192
+      panel_cup_idle6_267: 179388016
+      panel_cup_idle6_51: -980110990
+      panel_cup_idle6_101: -1692874204
+      panel_cup_idle6_73: -725122974
+      panel_cup_idle6_175: -641523290
+      panel_cup_idle6_37: -1435730833
+      panel_cup_idle6_21: 2075864775
+      panel_cup_idle6_163: -248801587
+      panel_cup_idle6_131: 310442940
+      panel_cup_idle6_275: 701169858
+      panel_cup_idle6_224: 530225318
+      panel_cup_idle6_197: -640763530
+      panel_cup_idle6_97: 2143681763
+      panel_cup_idle6_116: -1038541561
+      panel_cup_idle6_225: 1615230322
+      panel_cup_idle6_242: 161056799
+      panel_cup_idle6_184: 391347881
+      panel_cup_idle6_223: 221025267
+      panel_cup_idle6_55: 1207941160
+      panel_cup_idle6_196: -896675531
+      panel_cup_idle6_217: 1645441951
+      panel_cup_idle6_212: -355671419
+      panel_cup_idle6_6: -634103177
+      panel_cup_idle6_46: -1676605046
+      panel_cup_idle6_173: 1530189959
+      panel_cup_idle6_106: 2075353123
+      panel_cup_idle6_129: -1693603738
+      panel_cup_idle6_87: 1610521960
+      panel_cup_idle6_30: -1140638816
+      panel_cup_idle6_111: -1872426973
+      panel_cup_idle6_203: 1279017210
+      panel_cup_idle6_124: -19771288
+      panel_cup_idle6_33: 602422954
+      panel_cup_idle6_45: -210468948
+      panel_cup_idle6_169: 1892586607
+      panel_cup_idle6_79: -1095723755
+      panel_cup_idle6_253: -1177769902
+      panel_cup_idle6_191: 180407458
+      panel_cup_idle6_28: 1774251620
+      panel_cup_idle6_14: -1945119752
+      panel_cup_idle6_160: -1226542723
+      panel_cup_idle6_44: 82198363
+      panel_cup_idle6_54: -1015636500
+      panel_cup_idle6_240: 2014070201
+      panel_cup_idle6_112: 753765564
+      panel_cup_idle6_152: 778710482
+      panel_cup_idle6_70: -1512652845
+      panel_cup_idle6_194: -652260337
+      panel_cup_idle6_143: -971631488
+      panel_cup_idle6_59: 38050891
+      panel_cup_idle6_186: -1092980016
+      panel_cup_idle6_201: -1124015582
+      panel_cup_idle6_26: 554738258
+      panel_cup_idle6_251: 1279421608
+      panel_cup_idle6_34: 1515043420
+      panel_cup_idle6_139: 1108169323
+      panel_cup_idle6_60: 1569602149
+      panel_cup_idle6_99: -1392627502
+      panel_cup_idle6_102: 1702569174
+      panel_cup_idle6_11: -2033694611
+      panel_cup_idle6_234: 283870596
+      panel_cup_idle6_90: 1740433327
+      panel_cup_idle6_32: -890477255
+      panel_cup_idle6_48: -443812341
+      panel_cup_idle6_42: 148927691
+      panel_cup_idle6_134: 46758421
+      panel_cup_idle6_141: -476890035
+      panel_cup_idle6_213: -1578267799
+      panel_cup_idle6_172: -1222785651
+      panel_cup_idle6_147: -419157359
+      panel_cup_idle6_56: 863022112
+      panel_cup_idle6_164: 862813433
+      panel_cup_idle6_53: -2079221216
+      panel_cup_idle6_8: 289612636
+      panel_cup_idle6_52: 584217436
+      panel_cup_idle6_36: 2012662258
+      panel_cup_idle6_61: -794447110
+      panel_cup_idle6_155: -582691664
+      panel_cup_idle6_262: -557642713
+      panel_cup_idle6_279: -543946743
+      panel_cup_idle6_95: -1987073886
+      panel_cup_idle6_165: -294738694
+      panel_cup_idle6_270: -1299627848
+      panel_cup_idle6_276: 61795142
+      panel_cup_idle6_142: -45907148
+      panel_cup_idle6_4: -1307278320
+      panel_cup_idle6_199: -1652944960
+      panel_cup_idle6_96: 282725266
+      panel_cup_idle6_126: -1848783083
+      panel_cup_idle6_248: -26384793
+      panel_cup_idle6_214: -920128587
+      panel_cup_idle6_40: 373266611
+      panel_cup_idle6_204: 619908624
+      panel_cup_idle6_123: 47291074
+      panel_cup_idle6_168: -1044878129
+      panel_cup_idle6_148: 476589423
+      panel_cup_idle6_239: 2079158366
+      panel_cup_idle6_161: 2115010445
+      panel_cup_idle6_133: 1967104039
+      panel_cup_idle6_171: -1278350979
+      panel_cup_idle6_82: 820809891
+      panel_cup_idle6_215: -541351449
+      panel_cup_idle6_58: 831962949
+      panel_cup_idle6_68: 2015381270
+      panel_cup_idle6_156: 1972373624
+      panel_cup_idle6_277: 223655986
+      panel_cup_idle6_263: 1064482651
+      panel_cup_idle6_93: 1787754645
+      panel_cup_idle6_179: 1279008502
+      panel_cup_idle6_208: 716613792
+      panel_cup_idle6_183: -1298306750
+      panel_cup_idle6_15: -180020240
+      panel_cup_idle6_144: 1140297110
+      panel_cup_idle6_94: 1901785986
+      panel_cup_idle6_130: 280298703
+      panel_cup_idle6_254: 1432360833
+      panel_cup_idle6_178: -660125572
+      panel_cup_idle6_245: 1942971027
+      panel_cup_idle6_7: 793741852
+      panel_cup_idle6_49: 2095016932
+      panel_cup_idle6_274: -2124572965
+      panel_cup_idle6_230: 2079913552
+      panel_cup_idle6_22: 517032642
+      panel_cup_idle6_57: 715782202
+      panel_cup_idle6_220: -915694666
+      panel_cup_idle6_149: -925257561
+      panel_cup_idle6_261: 973158002
+      panel_cup_idle6_89: 289113120
+      panel_cup_idle6_190: 1436418429
+      panel_cup_idle6_127: -1580490834
+      panel_cup_idle6_158: 295646264
+      panel_cup_idle6_206: -2044137807
+      panel_cup_idle6_271: 718579470
+      panel_cup_idle6_74: 146260320
+      panel_cup_idle6_237: -520681365
+      panel_cup_idle6_146: 1063081092
+      panel_cup_idle6_157: 1764850982
+      panel_cup_idle6_229: 1372549889
+      panel_cup_idle6_98: -1355819395
+      panel_cup_idle6_154: -1966240919
+      panel_cup_idle6_69: 57316542
+      panel_cup_idle6_232: 291519765
+      panel_cup_idle6_38: 1133919705
+      panel_cup_idle6_118: 494006767
+      panel_cup_idle6_9: -1399625279
+      panel_cup_idle6_64: 280395663
+      panel_cup_idle6_50: -1929549877
+      panel_cup_idle6_207: -1137291784
+      panel_cup_idle6_138: -301968334
+      panel_cup_idle6_255: 172895987
+      panel_cup_idle6_258: 1378753216
+      panel_cup_idle6_29: 1360969740
+      panel_cup_idle6_25: -191160212
+      panel_cup_idle6_63: -379848554
+      panel_cup_idle6_235: 1037824773
+      panel_cup_idle6_107: -608446494
+      panel_cup_idle6_105: -130054429
+      panel_cup_idle6_151: -2017266103
+      panel_cup_idle6_122: -608170279
+      panel_cup_idle6_241: 561570333
+      panel_cup_idle6_252: 542784012
+      panel_cup_idle6_84: 68606096
+      panel_cup_idle6_167: 1345539784
+      panel_cup_idle6_200: 135924504
+      panel_cup_idle6_260: 305111116
+      panel_cup_idle6_108: 827397496
+      panel_cup_idle6_185: 1403668053
+      panel_cup_idle6_233: 1736892521
+      panel_cup_idle6_78: 590329565
+      panel_cup_idle6_159: 1378829788
+      panel_cup_idle6_31: -1449651734
+      panel_cup_idle6_17: -685238343
+      panel_cup_idle6_210: -1602778644
+      panel_cup_idle6_104: 941235877
+      panel_cup_idle6_268: -795450097
+      panel_cup_idle6_221: 1333974975
+      panel_cup_idle6_113: -685447965
+      panel_cup_idle6_174: 743914195
+      panel_cup_idle6_23: -2027505139
+      panel_cup_idle6_120: 1268715542
+      panel_cup_idle6_66: -657623975
+      panel_cup_idle6_114: -1747410506
+      panel_cup_idle6_273: -1707184177
+      panel_cup_idle6_117: -941334121
+      panel_cup_idle6_19: -1312535978
+      panel_cup_idle6_80: -707887000
+      panel_cup_idle6_247: 796566119
+      panel_cup_idle6_136: -2001894033
+      panel_cup_idle6_92: -956894592
+      panel_cup_idle6_195: -381132712
+      panel_cup_idle6_121: 1348576794
+      panel_cup_idle6_109: -839262167
+      panel_cup_idle6_27: -241462072
+      panel_cup_idle6_77: 1116886959
+      panel_cup_idle6_43: 1825066667
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
