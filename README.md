@@ -2,8 +2,8 @@
 <a name="readme-top"></a>
 ## Mix-Reality Desktop: Digital Object
 
-[![](https://raw.githubusercontent.com/yucheuan/MR-Desktop-system-pad/main/Assets/ReadMePicture.png)](https://vimeo.com/yuchenghuang/mrd)
-<p align="center"><a href="https://vimeo.com/yuchenghuang/mrd"><strong>WATCH THE INTRO VIDEO »</strong></a></p>
+[![](https://raw.githubusercontent.com/yucheuan/MR-Desktop-system-pad/main/Assets/ReadMePicture.png)](https://vimeo.com/755025403)
+<p align="center"><a href="https://vimeo.com/755025403"><strong>WATCH THE INTRO VIDEO »</strong></a></p>
 
 ### Intro
 “Embodied virtuality is the process of drawing computers out of their electronic shells,” said Mark Wieser in 1993, demonstrating a vision of ubiquitous computing that weaves into the fabric of everyday life. However, the pervasive factor of human-computer interaction is lacking in discussions.
